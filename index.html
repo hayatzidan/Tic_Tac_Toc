@@ -4,45 +4,28 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <!-- <title>Document</title> -->
     <title>Tic Tac Toe</title>
   </head>
       
-    <!-- <body> 
-    <h1>Hayat Zidan</h1> 
-
-    <button onclick="changeBackgroundcolor()">change Background color</button>
-
-
-    <button id="ToggleButton">Toggle Varible</button>
-   
-    <div class="container">
-      
-      <div class="box"></div>
-      <div class="box"></div>
-      <div class="box"></div>
-
-    </div>
-
-
-    <script src="script.js" defer></script> 
-
-  </body>   -->
-
    <body>
+
+
+    
       <header>
-          <a href="2page.HTML">go to 2page</a>
+        <div class="menus" onclick="toggleMenu()">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <nav class="menu">
+          <a href="2page.HTML">light</a>
           <a href="3page.HTML">go to 3page</a>
           <a href="myPortfolio.HTML"> go to myPortfolio</a>
           <a href="colorful.HTML"> Go to colorful</a>
+          <a href="test.html">Go to inputs</a>
+          <a href="sq.html">change box's color</a>
+        </nav>
       </header>
-    
-     
-
-
-
-
-     
 
     <div class="game-container">
         <h1>Tic Tac Toe</h1>
@@ -61,6 +44,11 @@
         <button id="restart">Restart Game</button>
         <p id="status">Player X's turn</p>
     </div>
+
+    
+    <iframe src="2page.HTML" height="600px" width="800px" frameborder="0"></iframe>
+
+
     <script src="script.js"></script>
 </body>
 </html>
