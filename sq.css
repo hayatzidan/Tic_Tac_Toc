@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+    padding: 20px;
+    justify-content: center;
+    justify-items: center;
+}
+
+#boxx {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    border: 4px solid palevioletred;
+    margin: 10px;
+}
+
+button {
+    background-color: blue;
+    border: 2px solid yellow;
+}
