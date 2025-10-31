@@ -27,7 +27,7 @@ It’s a personal space where I combined everything I learned into one fun and f
 
 ## 🌍 Live Demo
 
-🔗 *Website:* [https://funny-semifreddo.netlify.app](https://funny-semifreddo.netlify.app)  
+🔗 *Website:* [https://funny-semifreddo.netlify.app](https://funny-semifreddo-39275f.netlify.app/)  
 🔗 *GitHub Repo:* [https://github.com/hayatzidan/Tic_Tac_Toc](https://github.com/hayatzidan/Tic_Tac_Toc)
 
 ---
@@ -40,3 +40,4 @@ This project represents my journey in learning web development — building, tes
 ---
 
 ⭐ If you like this project, please give it a star on GitHub!
+
